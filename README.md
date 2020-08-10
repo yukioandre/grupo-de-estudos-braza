@@ -1,4 +1,4 @@
-# grupo-de-estudos-braza
+# Grupo de Estudos Braza
 Grupo de estudos de DS iniciado em Junho/2020 com cerca de 15 pessoas interessadas no assunto.
 
 Envolvidos (em ordem alfabética de @): 
