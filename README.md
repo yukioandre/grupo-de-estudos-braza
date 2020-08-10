@@ -16,4 +16,4 @@ Envolvidos (em ordem alfabética de @):
 Tópicos abordados:
 - Semana 1: OLS + Pipeline Scikit
 - Semana 2: Ridge & Lasso + OOB + Bagging
-- Semana 3:
+- Semana 3: Gradient Descent + Logistic Regression
